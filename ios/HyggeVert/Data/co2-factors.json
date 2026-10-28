@@ -1,0 +1,46 @@
+{
+ "unit": "g CO2e pr. personkilometer",
+ "note": "Ingen af værdierne er tjekket endnu (verified: false). Se README.",
+ "factors": {
+  "walk": {
+   "g_per_km": 0,
+   "verified": false,
+   "source": "Ingen direkte udledning ved gang."
+  },
+  "bike": {
+   "g_per_km": 0,
+   "verified": false,
+   "source": "Ingen direkte udledning ved almindelig cykel (også Donkey Republic)."
+  },
+  "donkey": {
+   "g_per_km": 0,
+   "verified": false,
+   "source": "Som almindelig cykel. Kørsel med servicevogne er ikke medregnet."
+  },
+  "lime": {
+   "g_per_km": 20,
+   "verified": false,
+   "source": "Pladsholder fra projektoplægget. Skal tjekkes mod fx Transportministeriets TEMA-model, Miljøstyrelsen eller Climatiq."
+  },
+  "tram": {
+   "g_per_km": 35,
+   "verified": false,
+   "source": "Pladsholder fra projektoplægget. Skal tjekkes mod fx Transportministeriets TEMA-model, Miljøstyrelsen eller Climatiq."
+  },
+  "train": {
+   "g_per_km": 35,
+   "verified": false,
+   "source": "Pladsholder fra projektoplægget. Skal tjekkes mod fx Transportministeriets TEMA-model, Miljøstyrelsen eller Climatiq."
+  },
+  "bus": {
+   "g_per_km": 80,
+   "verified": false,
+   "source": "Pladsholder fra projektoplægget. Skal tjekkes mod fx Transportministeriets TEMA-model, Miljøstyrelsen eller Climatiq."
+  },
+  "car": {
+   "g_per_km": 170,
+   "verified": false,
+   "source": "Pladsholder fra projektoplægget. Skal tjekkes mod fx Transportministeriets TEMA-model, Miljøstyrelsen eller Climatiq."
+  }
+ }
+}

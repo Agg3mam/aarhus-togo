@@ -1,0 +1,254 @@
+/* Aarhus ToGo – français. En dansk/engelsk udgave tilføjes som da.lproj/en.lproj med de samme nøgler. */
+
+/* Faner */
+"tab.home" = "Accueil";
+"tab.map" = "Carte";
+"tab.explore" = "Explorer";
+"tab.trip" = "Trajet";
+"tab.discounts" = "Remises";
+
+/* Fælles */
+"common.example" = "Exemple";
+"a11y.on" = "activé";
+"a11y.off" = "désactivé";
+
+/* Rejseformer */
+"mode.walk" = "À pied";
+"mode.bike" = "Vélo";
+"mode.donkey" = "Vélo Donkey Republic";
+"mode.lime" = "Vélo électrique Lime";
+"mode.tram" = "Letbane (tramway)";
+"mode.bus" = "Bus Midttrafik";
+"mode.train" = "Train";
+"mode.car" = "Voiture";
+
+/* Kategorier */
+"category.nature" = "Nature";
+"category.musee" = "Musée";
+"category.secret" = "Secret local";
+"category.partenaire" = "Partenaire";
+"category.excursion" = "Excursion";
+"category.restaurant" = "Restaurant";
+"category.cafe" = "Café";
+"category.activite" = "Activité";
+
+/* Rabatniveauer */
+"level.foret" = "Niveau Forêt";
+"level.prairie" = "Niveau Prairie";
+"level.ville" = "Niveau Ville";
+"level.none" = "Pas de remise";
+
+/* Accueil */
+"home.hello" = "Bonjour %@";
+"home.menu" = "Options";
+"home.menu.example" = "Charger une journée exemple";
+"home.menu.reset" = "Recommencer la journée";
+"home.reset.title" = "Effacer tous les trajets d'aujourd'hui ?";
+"home.co2.title" = "Mon CO₂ aujourd'hui";
+"home.co2.budget" = "Encore %@ dans votre budget";
+"home.saved" = "%@ évités";
+"home.ring.of" = "de %@";
+"home.ring.a11y" = "%1$@ de CO₂ émis aujourd'hui sur un budget de %2$@";
+"home.level.discount" = "−%ld %% chez nos partenaires aujourd'hui";
+"home.level.none" = "Au-delà de 8 kg : pas de remise aujourd'hui";
+"home.level.locked" = "Remise à débloquer";
+"home.level.locked.sub" = "Enregistrez un premier trajet vert";
+"home.trips" = "Mes trajets du jour";
+"home.trips.empty" = "Aucun trajet pour l'instant. Choisissez un lieu sur la carte et laissez-vous guider vers la solution la plus verte.";
+"home.trips.cta" = "Trouver un lieu";
+"home.tips" = "Vivre vert au Danemark";
+
+"tip.water.title" = "L'eau du robinet est potable";
+"tip.water.body" = "Au Danemark, l'eau du robinet est d'excellente qualité. Remplissez votre gourde plutôt que d'acheter de l'eau en bouteille.";
+"tip.pant.title" = "Rapportez vos bouteilles";
+"tip.pant.body" = "Les bouteilles et canettes marquées « pant » sont consignées : déposez-les dans la machine d'un supermarché pour récupérer la consigne.";
+"tip.bike.title" = "Louez un vélo";
+"tip.bike.body" = "Aarhus se découvre à vélo : des pistes cyclables partout et des vélos Donkey Republic en libre-service dans toute la ville.";
+"tip.organic.title" = "Cherchez le Ø rouge";
+"tip.organic.body" = "Le label rouge « Ø » de l'État danois garantit un produit biologique contrôlé. On le trouve dans tous les supermarchés.";
+
+"example.trip1" = "Aéroport d'Aarhus → centre-ville";
+"example.trip2" = "Aarhus H → Universitetsparken";
+
+/* Carte */
+"map.title" = "Carte";
+"map.layer.places" = "Lieux";
+"map.layer.transport" = "Transports";
+"map.you" = "Vous êtes ici";
+"map.you.demo" = "Aarhus H (position de démo)";
+
+"transport.bus" = "Arrêt de bus";
+"transport.tram" = "Arrêt de letbane";
+"transport.donkey" = "Zone Donkey Republic";
+"transport.lime" = "Zone Lime";
+"transport.bus.a11y" = "Arrêt de bus %@";
+"transport.tram.a11y" = "Arrêt de letbane %@";
+"transport.donkey.a11y" = "Zone Donkey Republic %@";
+"transport.lime.a11y" = "Zone Lime %@, exemple";
+"transport.source.osm" = "Données OpenStreetMap";
+"transport.source.gbfs" = "Données réelles Donkey Republic";
+"transport.donkey.body" = "Prenez un vélo orange Donkey Republic ici avec l'application, et rendez-le dans n'importe quelle zone Donkey de la ville.";
+"transport.lime.body" = "Les zones Lime affichées sont des exemples : Lime ne publie pas ses données pour Aarhus. Ouvrez l'application Lime pour voir les vélos disponibles.";
+
+/* Y aller */
+"go.cta" = "Y aller";
+"go.maps" = "Ouvrir dans Google Maps / Plans";
+"go.maps.title" = "Ouvrir l'itinéraire dans…";
+"go.maps.plans" = "Plans (Apple)";
+"go.from.you" = "depuis votre position";
+"go.from.demo" = "depuis Aarhus H";
+"go.suggested" = "transport conseillé";
+"go.co2" = "CO₂ du trajet";
+"go.locating" = "Recherche de votre position…";
+"go.back.info" = "Retour";
+"go.back.options" = "Autres trajets";
+"go.options.title" = "Comment aller à %@ ?";
+"go.origin.you" = "Depuis votre position";
+"go.origin.demo" = "Depuis Aarhus H (position de démo)";
+"go.best" = "Le plus vert";
+"go.compare" = "Pour comparaison";
+"go.choose.hint" = "Affiche l'itinéraire sur la carte";
+"go.arrived" = "J'y suis !";
+"go.open.donkey" = "Ouvrir Donkey Republic";
+"go.open.lime" = "Ouvrir Lime";
+"go.open.midttrafik" = "Midttrafik";
+"go.open.ticket" = "Billet";
+"go.transit.route" = "Itinéraire en transports";
+"go.note.donkey" = "Déverrouillez le vélo avec l'application Donkey Republic, puis rendez-le dans une zone Donkey près de votre destination.";
+"go.note.lime" = "Exemple : les zones Lime de cette démo sont fictives. L'application Lime montre les vélos réellement disponibles.";
+"go.note.ticket" = "Achetez votre billet avant de monter : dans l'application Rejsebillet ou avec un Rejsekort. Suivez votre bus en direct dans Midttrafik.";
+"go.note.offline" = "Itinéraire approximatif (service de calcul indisponible). Le bouton Google Maps / Plans fonctionne toujours.";
+
+"leg.walk.to" = "Marchez jusqu'à %@";
+"leg.walk.donkey" = "Marchez jusqu'à la zone Donkey « %@ »";
+"leg.walk.lime" = "Marchez jusqu'à la zone Lime « %@ »";
+"leg.walk.stop" = "Marchez jusqu'à l'arrêt « %@ »";
+"leg.walk.station" = "Marchez jusqu'à la gare Aarhus H";
+"leg.ride.to" = "Pédalez jusqu'à %@";
+"leg.transit" = "%1$@ jusqu'à « %2$@ »";
+"leg.transit.direct" = "%1$@ en direction de %2$@";
+"leg.train" = "Train en direction de %@";
+"leg.car" = "En voiture";
+"leg.indicative" = "tracé indicatif";
+
+"trip.to" = "Trajet vers %@";
+
+/* Bannière */
+"celebrate.unlocked" = "Bravo ! %@";
+"celebrate.added" = "Trajet ajouté à votre journée";
+"celebrate.discount" = "−%ld %% chez nos partenaires. Touchez pour voir le coupon.";
+"celebrate.nodiscount" = "Pas de remise aujourd'hui";
+"celebrate.a11y" = "Trajet ajouté. %1$@, remise de %2$ld pour cent.";
+
+/* Explorer */
+"explore.title" = "Explorer";
+"explore.subtitle" = "Nature, musées, restaurants, cafés et sorties à Aarhus et aux alentours.";
+"explore.filter.all" = "Tout";
+"explore.filter.nature" = "Nature";
+"explore.filter.musee" = "Musées";
+"explore.filter.secret" = "Secrets locaux";
+"explore.filter.excursion" = "Excursions";
+"explore.filter.restaurant" = "Restos & cafés";
+"explore.filter.activite" = "Activités";
+"explore.filter.organic" = "Label bio";
+"explore.filter.partenaire" = "Partenaires";
+"explore.onmap" = "Voir sur la carte";
+
+/* Trajet */
+"trip.title" = "Trajet";
+"trip.subtitle" = "Calculez le CO₂ d'un trajet et comparez-le à la voiture.";
+"trip.distance" = "Distance";
+"trip.co2" = "de CO₂";
+"trip.saved" = "%1$@ de moins qu'en voiture (−%2$ld %%)";
+"trip.after" = "Après ce trajet";
+"trip.day.total" = "Journée :\n%@";
+"trip.add" = "Ajouter à ma journée";
+"trip.free" = "Trajet libre de %@";
+
+/* Remises */
+"disc.title" = "Remises";
+"disc.subtitle" = "Moins vous émettez aujourd'hui, plus la remise est grande.";
+"disc.today" = "Votre remise du jour";
+"disc.locked" = "Faites un premier trajet vert pour débloquer votre coupon.";
+"disc.over" = "Plus de 8 kg aujourd'hui : pas de remise. Demain est un autre jour !";
+"disc.hint" = "Montrez ce code chez un partenaire.";
+"disc.qr.a11y" = "Code QR de votre remise de %ld pour cent";
+"disc.levels" = "Les niveaux";
+"disc.current" = "Actuel";
+"disc.level.rule" = "Jusqu'à %ld kg de CO₂ par jour";
+"disc.partners" = "Partenaires";
+"disc.partners.note" = "Exemples : les partenaires de ce prototype sont fictifs.";
+
+/* Korte navne */
+"mode.short.walk" = "À pied";
+"mode.short.bike" = "Vélo";
+"mode.short.donkey" = "Donkey";
+"mode.short.lime" = "Lime";
+"mode.short.tram" = "Letbane";
+"mode.short.bus" = "Bus";
+"mode.short.train" = "Train";
+"mode.short.car" = "Voiture";
+"mode.phrase.walk" = "à pied";
+"mode.phrase.bike" = "à vélo";
+"mode.phrase.donkey" = "à vélo";
+"mode.phrase.lime" = "en Lime";
+"mode.phrase.tram" = "en letbane";
+"mode.phrase.bus" = "en bus";
+"mode.phrase.train" = "en train";
+"mode.phrase.car" = "en voiture";
+
+/* Designrunde */
+"home.next" = "Encore %1$@ avant le %2$@.";
+"home.next.end" = "Encore %@ avant la fin des remises.";
+"home.next.over" = "Budget dépassé de %@. Demain, on recommence.";
+"home.ring.hint" = "Ouvre vos remises";
+"trip.row" = "%2$@ %1$@, à %3$@";
+"leg.meta" = "%1$@ pour %2$@";
+"explore.meta" = "%1$@, à %2$@";
+"tag.organic" = "Label bio";
+"go.alsohere" = "Aussi sur place";
+
+/* Rabatloft efter rejseform */
+"home.capped" = "Un trajet %1$@ aujourd'hui : remise limitée au %2$@.";
+"disc.rule.foret" = "Jusqu'à 2 kg de CO₂, uniquement à pied ou à vélo";
+"disc.rule.prairie" = "Jusqu'à 5 kg, en Lime ou en transports en commun";
+"disc.rule.ville" = "Jusqu'à 8 kg, sans trajet en voiture";
+"home.capped.car" = "Un trajet %@ aujourd'hui : pas de remise. Demain, on recommence.";
+"disc.nocar" = "Un trajet en voiture dans la journée annule la remise.";
+"settings.language" = "Langue";
+
+/* Spørgeskema */
+"onb.welcome.title" = "Bienvenue à Aarhus";
+"onb.welcome.sub" = "Quelques questions pour adapter Aarhus ToGo à ton voyage. Ça prend une minute.";
+"onb.name" = "Comment tu t'appelles ?";
+"onb.name.placeholder" = "Ton prénom";
+"onb.interests" = "Que viens-tu faire ici ?";
+"onb.interests.sub" = "Choisis tout ce qui te tente.";
+"onb.budget" = "Quel est ton budget ?";
+"onb.budget.sub" = "Pour tout ton séjour à Aarhus.";
+"onb.age" = "Tu as quel âge ?";
+"onb.age.value" = "%ld ans";
+"onb.company" = "Tu voyages avec qui ?";
+"onb.step" = "Question %ld sur %ld";
+"onb.next" = "Continuer";
+"onb.skip" = "Passer";
+"onb.done" = "C'est parti";
+"profile.interest.cuisine" = "Cuisine";
+"profile.interest.shopping" = "Shopping";
+"profile.interest.musee" = "Musées";
+"profile.interest.nature" = "Nature";
+"profile.interest.activite" = "Activités";
+"profile.company.family" = "Ma famille";
+"profile.company.friends" = "Mes amis";
+"profile.company.familyKids" = "Ma famille et les enfants";
+"profile.company.solo" = "Seul(e)";
+"profile.company.agency" = "Une agence de voyages";
+"home.foryou" = "Pour toi";
+"home.foryou.sub" = "Choisis d'après tes réponses au questionnaire.";
+"home.menu.profile" = "Refaire le questionnaire";
+"explore.filter.foryou" = "Pour toi";
+
+/* Fotos */
+"photo.credit" = "Photo : %1$@, %2$@";
+"photo.credit.noauthor" = "Photo : %@";
+"photo.credit.hint" = "Ouvre la page de la photo sur Wikimedia Commons";

@@ -1,0 +1,55 @@
+{
+ "source": "DEMO – pladsholdere, ingen rigtige virksomheder.",
+ "partners": [
+  {
+   "id": "p-cafe",
+   "name": "[Café bio partenaire]",
+   "kind": "cafe",
+   "offer_fr": "Café, pâtisseries et déjeuner bio.",
+   "lat": 56.161575,
+   "lng": 10.211518,
+   "demo": true,
+   "offer_da": "Café, kager og frokost, alt økologisk."
+  },
+  {
+   "id": "p-velo",
+   "name": "[Location de vélos partenaire]",
+   "kind": "bike",
+   "offer_fr": "Location de vélos à la journée.",
+   "lat": 56.150241,
+   "lng": 10.20293,
+   "demo": true,
+   "offer_da": "Cykeludlejning for en dag ad gangen."
+  },
+  {
+   "id": "p-hotel",
+   "name": "[Hébergement éco partenaire]",
+   "kind": "hotel",
+   "offer_fr": "Chambres dans un hébergement écolabellisé.",
+   "lat": 56.151284,
+   "lng": 10.203248,
+   "demo": true,
+   "offer_da": "Værelser på et miljømærket overnatningssted."
+  },
+  {
+   "id": "p-epicerie",
+   "name": "[Épicerie bio partenaire]",
+   "kind": "shop",
+   "offer_fr": "Produits danois locaux et bio (label Ø rouge).",
+   "lat": 56.157963,
+   "lng": 10.196718,
+   "demo": true,
+   "offer_da": "Lokale danske og økologiske varer (det røde Ø-mærke)."
+  },
+  {
+   "id": "p-resto",
+   "name": "[Restaurant local partenaire]",
+   "kind": "restaurant",
+   "offer_fr": "Cuisine nordique de saison.",
+   "lat": 56.162707,
+   "lng": 10.216384,
+   "demo": true,
+   "offer_da": "Nordisk mad efter årstiden."
+  }
+ ]
+}

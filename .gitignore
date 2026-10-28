@@ -1,0 +1,7 @@
+.DS_Store
+ios/build/
+xcuserdata/
+web/node_modules/
+web/dist/
+web/src/generated/
+web/public/img/

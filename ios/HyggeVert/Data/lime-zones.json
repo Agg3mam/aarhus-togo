@@ -1,0 +1,93 @@
+{
+ "source": "DEMO – opdigtede eksempelzoner (Lime har intet offentligt GBFS-feed for Aarhus).",
+ "zones": [
+  {
+   "id": "lime-demo-1",
+   "name": "Banegårdspladsen",
+   "lat": 56.150241,
+   "lng": 10.20293,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-2",
+   "name": "Park Allé",
+   "lat": 56.151284,
+   "lng": 10.203248,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-3",
+   "name": "Nørreport",
+   "lat": 56.161575,
+   "lng": 10.211518,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-4",
+   "name": "Dokk1",
+   "lat": 56.154141,
+   "lng": 10.212945,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-5",
+   "name": "Universitetsparken",
+   "lat": 56.167045,
+   "lng": 10.207605,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-6",
+   "name": "Trøjborg Centret",
+   "lat": 56.172843,
+   "lng": 10.210253,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-7",
+   "name": "Østbanetorvet",
+   "lat": 56.162707,
+   "lng": 10.216384,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-8",
+   "name": "Skolebakken",
+   "lat": 56.157157,
+   "lng": 10.213044,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-9",
+   "name": "Stjernepladsen",
+   "lat": 56.173894,
+   "lng": 10.203105,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-10",
+   "name": "Vesterbrogade",
+   "lat": 56.157963,
+   "lng": 10.196718,
+   "radius_m": 250,
+   "demo": true
+  },
+  {
+   "id": "lime-demo-11",
+   "name": "Aarhus Universitet",
+   "lat": 56.17123,
+   "lng": 10.204856,
+   "radius_m": 250,
+   "demo": true
+  }
+ ]
+}

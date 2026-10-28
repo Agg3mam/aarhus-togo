@@ -1,0 +1,1030 @@
+[
+ {
+  "id": "aros",
+  "name": "ARoS Aarhus Kunstmuseum",
+  "q": "ARoS Aarhus Kunstmuseum",
+  "category": "musee",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Musée d'art moderne couronné par « Your rainbow panorama », la passerelle circulaire aux couleurs de l'arc-en-ciel imaginée par Olafur Eliasson.",
+  "description_da": "Kunstmuseum med »Your rainbow panorama« på taget: Olafur Eliassons runde gangbro i regnbuens farver."
+ },
+ {
+  "id": "den-gamle-by",
+  "name": "Den Gamle By",
+  "q": "Den Gamle By, Viborgvej, Aarhus",
+  "category": "musee",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Musée en plein air : on flâne dans les rues, les boutiques et les maisons d'une ville danoise d'autrefois.",
+  "description_da": "Frilandsmuseum, hvor man går rundt i gader, butikker og huse fra en dansk købstad i gamle dage."
+ },
+ {
+  "id": "moesgaard",
+  "name": "Moesgaard Museum",
+  "q": "Moesgård Allé 15, 8270 Højbjerg",
+  "category": "musee",
+  "area": "Højbjerg",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "description_fr": "Musée d'archéologie et d'ethnographie au grand toit d'herbe, où repose l'homme de Grauballe, conservé plus de 2 000 ans dans une tourbière.",
+  "description_da": "Museum for arkæologi og etnografi med det store græstag. Her ligger Grauballemanden, der har ligget over 2.000 år i en mose."
+ },
+ {
+  "id": "naturhistorisk",
+  "name": "Naturhistorisk Museum",
+  "q": "Naturhistorisk Museum Aarhus",
+  "category": "musee",
+  "area": "Universitetsparken",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Musée d'histoire naturelle au cœur du parc de l'université : la faune du Danemark et du monde entier.",
+  "description_da": "Naturhistorisk museum midt i Universitetsparken: dyrelivet i Danmark og resten af verden."
+ },
+ {
+  "id": "steno",
+  "name": "Steno Museet",
+  "q": "Steno Museet, Aarhus",
+  "category": "musee",
+  "area": "Universitetsparken",
+  "greenTransport": "walk",
+  "isHiddenGem": true,
+  "description_fr": "Petit musée des sciences et de la médecine, avec un planétarium et un jardin de plantes médicinales.",
+  "description_da": "Lille museum for naturvidenskab og medicin med planetarium og en have med lægeplanter."
+ },
+ {
+  "id": "kon",
+  "name": "KØN – Gender Museum Denmark",
+  "q": "KØN Gender Museum Denmark",
+  "alt": [
+   "Kvindemuseet, Domkirkepladsen, Aarhus",
+   "Domkirkepladsen 5, Aarhus"
+  ],
+  "category": "musee",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Musée du genre, dans l'ancien hôtel de ville près de la cathédrale : l'histoire des femmes, des hommes et des identités au Danemark.",
+  "description_da": "Kønsmuseum i det gamle rådhus ved domkirken: historien om kvinder, mænd og identiteter i Danmark."
+ },
+ {
+  "id": "ovartaci",
+  "name": "Museum Ovartaci",
+  "q": "Museum Ovartaci",
+  "category": "musee",
+  "area": "Skejby",
+  "greenTransport": "tram",
+  "isHiddenGem": true,
+  "description_fr": "Musée consacré à l'artiste Ovartaci et à l'art né en psychiatrie, à quelques arrêts de tramway du centre.",
+  "description_da": "Museum for kunstneren Ovartaci og kunst skabt i psykiatrien, få stop med letbanen fra centrum."
+ },
+ {
+  "id": "besaettelsesmuseet",
+  "name": "Besættelsesmuseet i Aarhus",
+  "q": "Besættelsesmuseet, Aarhus",
+  "alt": [
+   "Besættelsesmuseet Aarhus Mathilde Fibigers Have"
+  ],
+  "category": "musee",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Le musée de l'Occupation raconte la vie à Aarhus pendant l'occupation allemande, de 1940 à 1945.",
+  "description_da": "Besættelsesmuseet fortæller om livet i Aarhus under den tyske besættelse fra 1940 til 1945."
+ },
+ {
+  "id": "marselisborg",
+  "name": "Marselisborgskovene og Marselisborg Dyrehave",
+  "q": "Marselisborg Dyrehave",
+  "alt": [
+   "Dyrehaven, Aarhus"
+  ],
+  "category": "nature",
+  "area": "Marselisborg",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "description_fr": "Grande forêt au bord de la baie. Dans le parc animalier, cerfs et chevreuils en liberté s'approchent des promeneurs.",
+  "description_da": "Stor skov ned til bugten. I Dyrehaven går krondyr og rådyr frit og kommer helt tæt på."
+ },
+ {
+  "id": "uendelige-bro",
+  "name": "Den Uendelige Bro",
+  "q": "Den Uendelige Bro",
+  "category": "nature",
+  "area": "Varna / Ballehage",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "description_fr": "Passerelle circulaire en bois posée sur la mer, face à la forêt : on peut en faire le tour sans fin.",
+  "description_da": "Rund træbro ude i vandet ud for skoven: man kan gå rundt og rundt uden ende."
+ },
+ {
+  "id": "riis-skov",
+  "name": "Riis Skov",
+  "q": "Riis Skov, Aarhus",
+  "category": "nature",
+  "area": "Nord",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Forêt de hêtres au nord du centre, qui descend jusqu'à la mer et à la petite plage de bains en bois.",
+  "description_da": "Bøgeskov nord for centrum, der går helt ned til vandet og den lille badeanstalt i træ."
+ },
+ {
+  "id": "botanisk-have",
+  "name": "Botanisk Have",
+  "q": "Botanisk Have, Aarhus",
+  "category": "nature",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Jardin botanique avec de grandes serres tropicales, juste à côté de Den Gamle By.",
+  "description_da": "Botanisk have med store tropiske væksthuse, lige ved siden af Den Gamle By."
+ },
+ {
+  "id": "moesgaard-strand",
+  "name": "Moesgaard Strand",
+  "q": "Moesgaard Strand",
+  "category": "nature",
+  "area": "Højbjerg",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "description_fr": "Longue plage au pied de la forêt, à quelques minutes du musée Moesgaard.",
+  "description_da": "Lang strand for foden af skoven, få minutter fra Moesgaard Museum."
+ },
+ {
+  "id": "ballehage",
+  "name": "Ballehage Strand",
+  "q": "Ballehage Strand",
+  "alt": [
+   "Ballehage, Aarhus"
+  ],
+  "category": "nature",
+  "area": "Varna / Ballehage",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "description_fr": "Plage calme bordée par la forêt de Marselisborg, tout près de Den Uendelige Bro.",
+  "description_da": "Rolig strand langs Marselisborgskovene, tæt på Den Uendelige Bro."
+ },
+ {
+  "id": "mindeparken",
+  "name": "Mindeparken",
+  "q": "Mindeparken, Aarhus",
+  "category": "nature",
+  "area": "Marselisborg",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "description_fr": "Vaste parc en pente douce vers la mer, voisin du château de Marselisborg, résidence d'été de la famille royale.",
+  "description_da": "Stor park, der skråner ned mod vandet, ved siden af Marselisborg Slot, kongefamiliens sommerresidens."
+ },
+ {
+  "id": "dokk1",
+  "name": "Dokk1",
+  "q": "Dokk1, Aarhus",
+  "category": "nature",
+  "area": "Havnen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Bibliothèque spectaculaire sur le port. Son grand gong sonne à chaque naissance à l'hôpital universitaire.",
+  "description_da": "Imponerende bibliotek på havnen. Den store gong ringer, hver gang der bliver født et barn på Universitetshospitalet."
+ },
+ {
+  "id": "aarhus-o",
+  "name": "Aarhus Ø og Havnebadet",
+  "q": "Havnebadet, Aarhus",
+  "alt": [
+   "Aarhus Havnebad"
+  ],
+  "category": "nature",
+  "area": "Aarhus Ø",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Nouveau quartier sur le port, avec un bain de mer en plein air dessiné par l'agence d'architectes BIG.",
+  "description_da": "Ny bydel på havnen med et friluftshavnebad tegnet af arkitektfirmaet BIG."
+ },
+ {
+  "id": "ega-engso",
+  "name": "Egå Engsø",
+  "q": "Egå Engsø",
+  "category": "secret",
+  "area": "Egå",
+  "greenTransport": "bike",
+  "isHiddenGem": true,
+  "description_fr": "Lac créé en 2006 sur d'anciennes prairies pour rendre la place à la nature : un paradis pour observer les oiseaux.",
+  "description_da": "Sø skabt i 2006 på gamle enge for at give plads til naturen: et paradis for fuglekiggere."
+ },
+ {
+  "id": "brabrand-so",
+  "name": "Brabrand Sø og Årslev Engsø",
+  "q": "Brabrand Sø",
+  "category": "secret",
+  "area": "Brabrand",
+  "greenTransport": "bike",
+  "isHiddenGem": true,
+  "description_fr": "Faites le tour des lacs de Brabrand et d'Årslev Engsø à vélo, sur un chemin plat au milieu des roseaux.",
+  "description_da": "Cykl rundt om Brabrand Sø og Årslev Engsø på en flad sti midt i sivene."
+ },
+ {
+  "id": "skjoldhojkilen",
+  "name": "Skjoldhøjkilen",
+  "q": "Skjoldhøjkilen",
+  "category": "secret",
+  "area": "Vest",
+  "greenTransport": "bus",
+  "isHiddenGem": true,
+  "description_fr": "Coulée verte de l'ouest de la ville : collines, étangs et sentiers où l'on croise plus de chevreuils que de touristes.",
+  "description_da": "Grøn kile i det vestlige Aarhus: bakker, søer og stier, hvor man møder flere rådyr end turister."
+ },
+ {
+  "id": "flojstrup",
+  "name": "Fløjstrup Skov og Ørnereden",
+  "q": "Fløjstrup Skov",
+  "category": "secret",
+  "area": "Syd",
+  "greenTransport": "bike",
+  "isHiddenGem": true,
+  "description_fr": "Forêt sauvage sur la côte sud qui descend vers une plage tranquille, avec le restaurant Ørnereden au bord de la falaise.",
+  "description_da": "Vild skov på kysten syd for byen, der går ned til en stille strand, med restaurant Ørnereden på skrænten."
+ },
+ {
+  "id": "godsbanen",
+  "name": "Godsbanen",
+  "q": "Godsbanen Aarhus",
+  "category": "secret",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": true,
+  "description_fr": "Ancienne gare de marchandises devenue centre culturel, avec ateliers, scènes et un toit en pente sur lequel on peut marcher.",
+  "description_da": "Gammel godsbanegård, der er blevet kulturcenter med værksteder, scener og et skråt tag, man kan gå på."
+ },
+ {
+  "id": "tangkrogen",
+  "name": "Tangkrogen",
+  "q": "Tangkrogen, Aarhus",
+  "category": "secret",
+  "area": "Syd",
+  "greenTransport": "walk",
+  "isHiddenGem": true,
+  "description_fr": "Grande pelouse au bord de l'eau, au sud du port, pour pique-niquer face à la baie.",
+  "description_da": "Stor græsplæne ved vandet syd for havnen, til picnic med udsigt over bugten."
+ },
+ {
+  "id": "mols-bjerge",
+  "name": "Nationalpark Mols Bjerge",
+  "q": "Nationalpark Mols Bjerge",
+  "alt": [
+   "Mols Bjerge"
+  ],
+  "category": "excursion",
+  "area": "Mols",
+  "greenTransport": "bus",
+  "isHiddenGem": false,
+  "description_fr": "Parc national de collines, landes et forêts au bord de la mer, à l'est d'Aarhus.",
+  "description_da": "Nationalpark med bakker, hede og skov ned til havet øst for Aarhus."
+ },
+ {
+  "id": "kalo",
+  "name": "Kalø Slotsruin",
+  "q": "Kalø Slotsruin",
+  "alt": [
+   "Kalø slotsruin, Rønde"
+  ],
+  "category": "excursion",
+  "area": "Rønde",
+  "greenTransport": "bus",
+  "isHiddenGem": false,
+  "description_fr": "Ruines d'un château médiéval sur une presqu'île, reliée à la côte par une ancienne chaussée.",
+  "description_da": "Ruinen af en middelalderborg på en halvø, forbundet med kysten af en gammel dæmning."
+ },
+ {
+  "id": "fregatten-jylland",
+  "name": "Fregatten Jylland",
+  "q": "Fregatten Jylland, Ebeltoft",
+  "category": "excursion",
+  "area": "Ebeltoft",
+  "greenTransport": "bus",
+  "isHiddenGem": false,
+  "description_fr": "Une immense frégate en bois du XIXe siècle, conservée en cale sèche au bord de l'eau à Ebeltoft.",
+  "description_da": "En kæmpe træfregat fra 1800-tallet, bevaret i tørdok ved vandet i Ebeltoft."
+ },
+ {
+  "id": "glasmuseet",
+  "name": "Glasmuseet Ebeltoft",
+  "q": "Glasmuseet Ebeltoft",
+  "category": "excursion",
+  "area": "Ebeltoft",
+  "greenTransport": "bus",
+  "isHiddenGem": false,
+  "description_fr": "Musée du verre d'art contemporain, au bord du port d'Ebeltoft.",
+  "description_da": "Museum for moderne glaskunst ved havnen i Ebeltoft."
+ },
+ {
+  "id": "farvergaarden",
+  "name": "Museet Farvergården",
+  "q": "Farvergården, Ebeltoft",
+  "alt": [
+   "Museet Farvergården"
+  ],
+  "category": "excursion",
+  "area": "Ebeltoft",
+  "greenTransport": "bus",
+  "isHiddenGem": false,
+  "description_fr": "Ancienne maison de teinturier conservée dans les ruelles pavées du vieil Ebeltoft.",
+  "description_da": "Gammelt farverhus bevaret i de brostensbelagte gader i det gamle Ebeltoft."
+ },
+ {
+  "id": "gammel-estrup",
+  "name": "Gammel Estrup – Herregårdsmuseet",
+  "q": "Gammel Estrup",
+  "category": "excursion",
+  "area": "Auning",
+  "greenTransport": "bus",
+  "isHiddenGem": false,
+  "description_fr": "Manoir entouré de douves, devenu musée de la vie des grands domaines danois.",
+  "description_da": "Herregård med voldgrav, der er blevet museum for livet på de store danske godser."
+ },
+ {
+  "id": "rosenholm",
+  "name": "Rosenholm Slot",
+  "q": "Rosenholm Slot",
+  "category": "excursion",
+  "area": "Hornslet",
+  "greenTransport": "tram",
+  "isHiddenGem": false,
+  "description_fr": "Château Renaissance entouré d'un parc près de Hornslet, où l'on va en tramway (letbane) depuis Aarhus.",
+  "description_da": "Renæssanceslot med park ved Hornslet, som man kan tage letbanen til fra Aarhus."
+ },
+ {
+  "id": "museum-jorn",
+  "name": "Museum Jorn",
+  "q": "Museum Jorn, Silkeborg",
+  "category": "excursion",
+  "area": "Silkeborg",
+  "greenTransport": "train",
+  "isHiddenGem": false,
+  "description_fr": "Musée de l'artiste Asger Jorn, figure du mouvement CoBrA, au cœur de Silkeborg.",
+  "description_da": "Museum for kunstneren Asger Jorn, en af CoBrA-bevægelsens hovedpersoner, midt i Silkeborg."
+ },
+ {
+  "id": "silkeborg-bad",
+  "name": "Kunstcentret Silkeborg Bad",
+  "q": "Kunstcentret Silkeborg Bad",
+  "alt": [
+   "Silkeborg Bad, Gjessøvej"
+  ],
+  "category": "excursion",
+  "area": "Silkeborg",
+  "greenTransport": "train",
+  "isHiddenGem": false,
+  "description_fr": "Ancien établissement thermal transformé en centre d'art, entouré d'un grand parc.",
+  "description_da": "Tidligere kurbad, der er blevet kunstcenter, omgivet af en stor park."
+ },
+ {
+  "id": "himmelbjerget",
+  "name": "Himmelbjerget og søerne ved Ry",
+  "q": "Himmelbjerget",
+  "category": "excursion",
+  "area": "Ry",
+  "greenTransport": "train",
+  "isHiddenGem": false,
+  "description_fr": "Colline boisée qui domine les lacs de Ry : train jusqu'à Ry, puis à pied, à vélo ou en bateau.",
+  "description_da": "Skovklædt bakke over søerne ved Ry: tog til Ry, og så videre til fods, på cykel eller med båd."
+ },
+ {
+  "id": "monsted",
+  "name": "Mønsted Kalkgruber",
+  "q": "Mønsted Kalkgruber",
+  "category": "excursion",
+  "area": "Viborg",
+  "greenTransport": "train",
+  "isHiddenGem": false,
+  "description_fr": "Immenses galeries creusées dans le calcaire, où hibernent des chauves-souris et où l'on affine du fromage.",
+  "description_da": "Enorme gange gravet ud i kalken, hvor flagermus overvintrer, og hvor der modnes ost."
+ },
+ {
+  "id": "haervaerk",
+  "name": "Restaurant Hærværk",
+  "q": "Hærværk, Aarhus",
+  "alt": [
+   "Restaurant Hærværk"
+  ],
+  "category": "restaurant",
+  "area": "Frederiksbjerg",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "organic": true,
+  "description_fr": "Restaurant à produits bio et locaux, récompensé par une étoile verte Michelin pour son engagement durable.",
+  "description_da": "Restaurant med økologiske og lokale råvarer, belønnet med en grøn Michelin-stjerne for sit bæredygtige arbejde."
+ },
+ {
+  "id": "aros-cafe",
+  "name": "ARoS Café & Orangeri",
+  "q": "ARoS Aarhus Kunstmuseum",
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "organic": true,
+  "description_fr": "Le café du musée ARoS. Titulaire du label bio danois Økologisk Spisemærke (au moins 30 % d'ingrédients bio).",
+  "description_da": "Caféen på ARoS. Har Det Økologiske Spisemærke (mindst 30 % økologiske råvarer)."
+ },
+ {
+  "id": "moesgaard-cafe",
+  "name": "Moesgaard Museum Café",
+  "q": "Moesgård Allé 15, 8270 Højbjerg",
+  "category": "restaurant",
+  "area": "Højbjerg",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "organic": true,
+  "description_fr": "Le café du musée Moesgaard, avec vue sur la forêt et la baie. Titulaire du label bio danois Økologisk Spisemærke (au moins 30 % d'ingrédients bio).",
+  "description_da": "Caféen på Moesgaard Museum med udsigt over skoven og bugten. Har Det Økologiske Spisemærke (mindst 30 % økologiske råvarer)."
+ },
+ {
+  "id": "gaestgivergaarden",
+  "name": "Gæstgivergården i Den Gamle By",
+  "q": "Gæstgivergården, Den Gamle By",
+  "alt": [
+   "Den Gamle By, Viborgvej, Aarhus"
+  ],
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "organic": true,
+  "description_fr": "Auberge d'autrefois dans le musée en plein air Den Gamle By. Titulaire du label bio danois Økologisk Spisemærke (au moins 30 % d'ingrédients bio).",
+  "description_da": "Gammelt gæstgiveri i frilandsmuseet Den Gamle By. Har Det Økologiske Spisemærke (mindst 30 % økologiske råvarer)."
+ },
+ {
+  "id": "sabro-kro",
+  "name": "Montra Hotel Sabro Kro – Restaurant",
+  "q": "Sabro Kro",
+  "category": "restaurant",
+  "area": "Sabro",
+  "greenTransport": "bus",
+  "isHiddenGem": false,
+  "organic": true,
+  "description_fr": "Restaurant d'une auberge de campagne à Sabro, au nord-ouest d'Aarhus. Titulaire du label bio danois Økologisk Spisemærke (au moins 30 % d'ingrédients bio).",
+  "description_da": "Restaurant i en landevejskro i Sabro, nordvest for Aarhus. Har Det Økologiske Spisemærke (mindst 30 % økologiske råvarer)."
+ },
+ {
+  "id": "lost",
+  "name": "Restaurant L'øst",
+  "q": "L'øst, Aarhus",
+  "alt": [
+   "Restaurant L'øst"
+  ],
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "organic": true,
+  "description_fr": "Restaurant de la rue Østergade, en plein centre. Titulaire du label bio danois Økologisk Spisemærke (au moins 30 % d'ingrédients bio).",
+  "description_da": "Restaurant i Østergade midt i byen. Har Det Økologiske Spisemærke (mindst 30 % økologiske råvarer)."
+ },
+ {
+  "id": "restaurant-v",
+  "name": "Restaurant V – Comwell Aarhus",
+  "q": "Comwell Aarhus",
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "organic": true,
+  "description_fr": "Le restaurant de l'hôtel Comwell, à deux pas de la gare Aarhus H. Titulaire du label bio danois Økologisk Spisemærke (au moins 30 % d'ingrédients bio).",
+  "description_da": "Restauranten på Comwell-hotellet, et par skridt fra Aarhus H. Har Det Økologiske Spisemærke (mindst 30 % økologiske råvarer)."
+ },
+ {
+  "id": "ludvigslyst",
+  "name": "Traktørstedet Ludvigslyst",
+  "q": "Ludvigslyst, Silkeborg",
+  "alt": [
+   "Traktørstedet Ludvigslyst"
+  ],
+  "category": "restaurant",
+  "area": "Svejbæk (Silkeborg)",
+  "greenTransport": "train",
+  "isHiddenGem": false,
+  "organic": true,
+  "description_fr": "Auberge-restaurant près de Silkeborg, à combiner avec une excursion aux lacs. Titulaire du label bio danois Økologisk Spisemærke (au moins 30 % d'ingrédients bio).",
+  "description_da": "Traktørsted ved Silkeborg, godt at kombinere med en tur til søerne. Har Det Økologiske Spisemærke (mindst 30 % økologiske råvarer)."
+ },
+ {
+  "id": "street-food",
+  "name": "Aarhus Street Food",
+  "q": "Aarhus Street Food",
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "organic": false,
+  "description_fr": "Halle de street food dans un ancien garage de bus, avec des stands de cuisines du monde entier.",
+  "description_da": "Street food-hal i en gammel busgarage med boder med mad fra hele verden."
+ },
+ {
+  "id": "central-food-market",
+  "name": "Aarhus Central Food Market",
+  "q": "Aarhus Central Food Market",
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "organic": false,
+  "description_fr": "Marché couvert gourmand près de la gare, avec des comptoirs de cuisine danoise et internationale.",
+  "description_da": ""
+ },
+ {
+  "id": "tivoli-friheden",
+  "name": "Tivoli Friheden",
+  "q": "Tivoli Friheden",
+  "category": "activite",
+  "area": "Marselisborg",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "description_fr": "Parc d'attractions plus que centenaire au cœur de la forêt de Marselisborg, avec montagnes russes, grande roue et la tour de chute libre Hjertekig.",
+  "description_da": "Forlystelsespark med over 100 år på bagen midt i Marselisborgskovene, med rutsjebaner, pariserhjul og frit fald-tårnet Hjertekig."
+ },
+ {
+  "id": "musikhuset",
+  "name": "Musikhuset Aarhus",
+  "q": "Musikhuset Aarhus",
+  "category": "activite",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "La plus grande salle de concert de Scandinavie, où jouent l'orchestre symphonique d'Aarhus et l'opéra national danois.",
+  "description_da": "Skandinaviens største koncerthus, hvor Aarhus Symfoniorkester og Den Jyske Opera spiller."
+ },
+ {
+  "id": "aarhus-oje",
+  "name": "Aarhus Øje (Lighthouse)",
+  "q": "Lighthouse, Aarhus Ø",
+  "alt": [
+   "Aarhus Øje"
+  ],
+  "category": "activite",
+  "area": "Aarhus Ø",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Point de vue au sommet de Lighthouse, le plus haut immeuble du Danemark, au bout du port.",
+  "description_da": "Udsigtspunkt på toppen af Lighthouse, Danmarks højeste bygning, yderst på havnen."
+ },
+ {
+  "id": "salling-rooftop",
+  "name": "Salling Rooftop",
+  "q": "Salling, Søndergade, Aarhus",
+  "category": "activite",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Le toit-terrasse du grand magasin Salling, avec une vue à 360° sur la ville.",
+  "description_da": "Tagterrassen på stormagasinet Salling med 360 graders udsigt over byen."
+ },
+ {
+  "id": "radhus",
+  "name": "Aarhus Rådhus",
+  "q": "Aarhus Rådhus",
+  "category": "activite",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "L'hôtel de ville fonctionnaliste dessiné par Arne Jacobsen et Erik Møller, avec sa haute tour d'horloge.",
+  "description_da": "Funktionalistisk rådhus tegnet af Arne Jacobsen og Erik Møller, med det høje urtårn."
+ },
+ {
+  "id": "domkirke",
+  "name": "Aarhus Domkirke",
+  "q": "Aarhus Domkirke",
+  "category": "activite",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "La plus longue cathédrale du Danemark, de style gothique, ornée de fresques médiévales.",
+  "description_da": "Danmarks længste domkirke, i gotisk stil og med kalkmalerier fra middelalderen."
+ },
+ {
+  "id": "latinerkvarteret",
+  "name": "Latinerkvarteret",
+  "q": "Latinerkvarteret, Aarhus",
+  "category": "activite",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Le plus vieux quartier de la ville : ruelles pavées, maisons colorées, cafés et petites boutiques.",
+  "description_da": "Byens ældste kvarter: brostensgader, farvede huse, caféer og små butikker."
+ },
+ {
+  "id": "marselisborg-slot",
+  "name": "Marselisborg Slot",
+  "q": "Marselisborg Slot",
+  "category": "activite",
+  "area": "Marselisborg",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "description_fr": "Résidence d'été de la famille royale, offerte en 1902 au roi Christian X. Son parc est ouvert au public quand la famille royale est absente.",
+  "description_da": "Kongefamiliens sommerresidens, givet til kong Christian X i 1902. Parken er åben, når kongefamilien ikke er der."
+ },
+ {
+  "id": "aarhus-universitet",
+  "name": "Aarhus Universitet",
+  "q": "Universitetsparken, Aarhus",
+  "category": "activite",
+  "area": "Universitetsparken",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Campus de briques jaunes dans un parc vallonné avec un lac, souvent cité parmi les plus beaux du monde.",
+  "description_da": "Campus i gule mursten i en bakket park med en sø, ofte nævnt som et af verdens smukkeste."
+ },
+ {
+  "id": "bavn",
+  "name": "Restaurant Bavn",
+  "q": "Restaurant Bavn, Aarhus",
+  "category": "restaurant",
+  "area": "Aarhus Ø",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant au 44e étage de Lighthouse, avec vue panoramique sur la ville et la baie.",
+  "description_da": "Restaurant på 44. etage i Lighthouse med panoramaudsigt over byen og bugten.",
+  "alt": [
+   "Lighthouse, Aarhus Ø"
+  ]
+ },
+ {
+  "id": "domestic",
+  "name": "Restaurant domestic",
+  "q": "Restaurant domestic, Mejlgade, Aarhus",
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant étoilé au guide Michelin 2026, rue Mejlgade, où le goût et la durabilité vont de pair.",
+  "description_da": "Restaurant med en stjerne i Michelinguiden 2026 i Mejlgade, hvor smag og bæredygtighed går hånd i hånd.",
+  "alt": [
+   "domestic, Aarhus"
+  ]
+ },
+ {
+  "id": "havnaer",
+  "name": "Restaurant Havnær",
+  "q": "Havnær, Aarhus",
+  "category": "restaurant",
+  "area": "Aarhus Ø",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant de gastronomie à forte personnalité, sous de hauts plafonds.",
+  "description_da": "Restaurant med gastronomi med personlighed og højt til loftet.",
+  "alt": [
+   "Restaurant Havnær"
+  ]
+ },
+ {
+  "id": "anker",
+  "name": "Restaurant Anker",
+  "q": "Restaurant Anker, Aarhus",
+  "category": "restaurant",
+  "area": "Aarhus Ø",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant sur le port, avec vue sur l'eau et l'architecture d'Aarhus Ø.",
+  "description_da": "Restaurant på havnen med udsigt over vandet og arkitekturen på Aarhus Ø.",
+  "alt": [
+   "Anker, Aarhus Ø"
+  ]
+ },
+ {
+  "id": "syv-ni-13",
+  "name": "Restaurant Syv Ni 13",
+  "q": "Syv Ni 13, Aarhus",
+  "category": "restaurant",
+  "area": "Sydhavnen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant au 19e étage de TRÆ, le plus haut immeuble en bois du Danemark, avec vue sur la ville et l'eau.",
+  "description_da": "Restaurant på 19. etage i TRÆ, Danmarks højeste træbygning, med udsigt over by og vand.",
+  "alt": [
+   "TRÆ, Aarhus Ø"
+  ]
+ },
+ {
+  "id": "nicolinehus",
+  "name": "Nicolinehus Market Hall",
+  "q": "Nicolinehus, Aarhus",
+  "category": "restaurant",
+  "area": "Aarhus Ø",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Halle gourmande sur Aarhus Ø, avec des cuisines du monde entier.",
+  "description_da": "Madmarked på Aarhus Ø med mad fra hele verden.",
+  "alt": [
+   "Nicolinehus Market Hall"
+  ]
+ },
+ {
+  "id": "mefisto",
+  "name": "Restaurant Mefisto",
+  "q": "Restaurant Mefisto, Aarhus",
+  "category": "restaurant",
+  "area": "Latinerkvarteret",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant du Quartier latin, réputé parmi les meilleures tables d'Aarhus.",
+  "description_da": "Restaurant i Latinerkvarteret, kendt som et af Aarhus' bedste spisesteder.",
+  "alt": [
+   "Mefisto, Volden, Aarhus"
+  ]
+ },
+ {
+  "id": "gastrome",
+  "name": "Restaurant Gastromé",
+  "q": "Gastromé, Aarhus",
+  "category": "restaurant",
+  "area": "Risskov",
+  "greenTransport": "donkey",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant gastronomique étoilé au guide Michelin Nordic 2026.",
+  "description_da": "Gourmetrestaurant med en stjerne i Michelin Nordic Guide 2026.",
+  "alt": [
+   "Restaurant Gastromé"
+  ]
+ },
+ {
+  "id": "gods",
+  "name": "Restaurant GODS",
+  "q": "Restaurant GODS, Aarhus",
+  "category": "restaurant",
+  "area": "Godsbanen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant décontracté dans le centre culturel Godsbanen.",
+  "description_da": "Uformelt spisested i kulturcentret Godsbanen.",
+  "alt": [
+   "GODS, Godsbanen, Aarhus"
+  ]
+ },
+ {
+  "id": "st-pauls",
+  "name": "Restaurant St. Pauls Apothek",
+  "q": "St. Pauls Apothek, Aarhus",
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant installé dans une pharmacie historique de 1899, en centre-ville.",
+  "description_da": "Restaurant i et historisk apotek fra 1899 i centrum.",
+  "alt": [
+   "St. Pauls Apotek, Aarhus"
+  ]
+ },
+ {
+  "id": "mas-vino",
+  "name": "Mas Vino Vinbodega",
+  "q": "Mas Vino, Klostergade, Aarhus",
+  "category": "restaurant",
+  "area": "Latinerkvarteret",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Bar à vins, restaurant décontracté et petit bar à cocktails, rue Klostergade.",
+  "description_da": "Vinbar, uformel restaurant og intim cocktailbar i Klostergade.",
+  "alt": [
+   "Mas Vino Aarhus"
+  ]
+ },
+ {
+  "id": "substans",
+  "name": "Restaurant Substans",
+  "q": "Restaurant Substans, Aarhus",
+  "category": "restaurant",
+  "area": "Aarhus Ø",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant de nouveau étoilé au guide Michelin Nordic en 2026.",
+  "description_da": "Restaurant, der igen fik en Michelinstjerne i Michelin Nordic Guide 2026.",
+  "alt": [
+   "Substans, Aarhus"
+  ]
+ },
+ {
+  "id": "tiende",
+  "name": "Tiende og Den Fede Drue",
+  "q": "Den Fede Drue, Aarhus",
+  "category": "restaurant",
+  "area": "Aarhus Ø",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant et bar à vins sur Aarhus Ø, pour une cuisine et des vins de grande qualité.",
+  "description_da": "Restaurant og vinbar på Aarhus Ø med mad og vin af højeste kvalitet.",
+  "alt": [
+   "Restaurant Tiende, Aarhus"
+  ]
+ },
+ {
+  "id": "cantina",
+  "name": "Cantina – Social dining",
+  "q": "Roberta's Society, Aarhus",
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Table conviviale de Roberta's Society, entre art, partage et convivialité.",
+  "description_da": "Fællesspisning hos Roberta's Society med kunst, fællesskab og samvær.",
+  "alt": [
+   "Cantina, Aarhus"
+  ]
+ },
+ {
+  "id": "flux",
+  "name": "Restaurant FLUX",
+  "q": "FLUX, Aarhus",
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Restaurant irlandais : barmen, musique et bières d'Irlande, avec une touche de hygge danoise.",
+  "description_da": "Irsk restaurant med irske bartendere, irsk musik og øl, krydret med dansk hygge.",
+  "alt": [
+   "Flux Irish Pub, Aarhus"
+  ]
+ },
+ {
+  "id": "vin-petanque",
+  "name": "Vin & Petanque",
+  "q": "Vin & Petanque, Aarhus",
+  "category": "restaurant",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Caviste et bar à vins avec trois terrains de pétanque couverts et plus de 300 vins du monde entier.",
+  "description_da": "Vinhandel og vinbar med tre indendørs petanquebaner og over 300 vine fra hele verden.",
+  "alt": [
+   "Vin og Petanque, Aarhus"
+  ]
+ },
+ {
+  "id": "schweizerbageriet",
+  "name": "SchweizerBageriet",
+  "q": "SchweizerBageriet, Aarhus",
+  "category": "cafe",
+  "area": "Frederiksbjerg",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "La plus ancienne boulangerie d'Aarhus, ouverte en 1898, à Frederiksbjerg : pains et gâteaux de qualité.",
+  "description_da": "Aarhus' ældste bageri fra 1898 på Frederiksbjerg med kvalitetsbrød og kager.",
+  "alt": [
+   "Schweizer Bageriet, Aarhus"
+  ]
+ },
+ {
+  "id": "la-cabra",
+  "name": "La Cabra Coffee",
+  "q": "La Cabra, Aarhus",
+  "category": "cafe",
+  "area": "Latinerkvarteret",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Café de classe mondiale au Quartier latin, avec pains et gâteaux, dans un décor de design danois.",
+  "description_da": "Kaffe i verdensklasse i Latinerkvarteret med brød og kager, indrettet med danske designklassikere.",
+  "alt": [
+   "La Cabra Coffee, Graven, Aarhus"
+  ]
+ },
+ {
+  "id": "stillers",
+  "name": "Stillers Coffee",
+  "q": "Stillers Coffee, Aarhus",
+  "category": "cafe",
+  "area": "Latinerkvarteret",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Café caché dans une arrière-cour de Klostergade, là où se trouvait autrefois une chocolaterie.",
+  "description_da": "Café i en skjult baggård ved Klostergade, hvor der engang lå en chokoladefabrik.",
+  "alt": [
+   "Stillers, Klostergade, Aarhus"
+  ]
+ },
+ {
+  "id": "casablanca",
+  "name": "Café Casablanca",
+  "q": "Café Casablanca, Aarhus",
+  "category": "cafe",
+  "area": "Latinerkvarteret",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Brasserie, café et bar sous un même toit depuis 1981, près de la cathédrale.",
+  "description_da": "Brasserie, café og bar under samme tag siden 1981, tæt på domkirken.",
+  "alt": [
+   "Casablanca, Rosensgade, Aarhus"
+  ]
+ },
+ {
+  "id": "peter-gift",
+  "name": "Peter Gift",
+  "q": "Peter Gift, Aarhus",
+  "category": "cafe",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Cuisine danoise traditionnelle et bonnes bières, avec un jardin ouvert de mars à octobre.",
+  "description_da": "Traditionel dansk mad og godt øl med en hyggelig baggård, der er åben fra marts til oktober.",
+  "alt": [
+   "Café Peter Gift"
+  ]
+ },
+ {
+  "id": "lava",
+  "name": "LAVA Café & Bar",
+  "q": "LAVA Café, Åboulevarden, Aarhus",
+  "category": "cafe",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Café-bar sur Åboulevarden : une cuisine soignée et une ambiance détendue au bord de la rivière.",
+  "description_da": "Café og bar på Åboulevarden med veltillavet mad og afslappet stemning ved åen.",
+  "alt": [
+   "Lava, Aarhus"
+  ]
+ },
+ {
+  "id": "resonans",
+  "name": "Resonans Bistro og Bar",
+  "q": "Resonans, Aarhus",
+  "category": "cafe",
+  "area": "Sydhavnen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Café et petite scène de musique live à Sydhavnen : café, cuisine et vin.",
+  "description_da": "Café og intimt spillested med livemusik i Sydhavnen: kaffe, mad og vin.",
+  "alt": [
+   "Resonans Bistro, Aarhus"
+  ]
+ },
+ {
+  "id": "cafe-viggo",
+  "name": "Café Viggo",
+  "q": "Café Viggo, Aarhus",
+  "category": "cafe",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Plats de café classiques, bon café et cocktails.",
+  "description_da": "Klassiske caféretter, godt brygget kaffe og cocktails.",
+  "alt": [
+   "Viggo, Aarhus"
+  ]
+ },
+ {
+  "id": "boardgame-cafe",
+  "name": "Boardgame Cafe",
+  "q": "Boardgame Cafe, Vestergade, Aarhus",
+  "category": "cafe",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Café de jeux de société dans le quartier de Vestergade, idéal en groupe.",
+  "description_da": "Brætspilscafé i Vestergade-kvarteret, godt til en gruppe.",
+  "alt": [
+   "Boardgame Cafe Aarhus"
+  ]
+ },
+ {
+  "id": "mor-anna",
+  "name": "MOR ANNA deli & bakery",
+  "q": "Mor Anna, Aarhus",
+  "category": "cafe",
+  "area": "Latinerkvarteret",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Épicerie fine et boulangerie du quartier de Mejlgade : plats à emporter, viennoiseries et café.",
+  "description_da": "Deli og bageri i Mejlgade-kvarteret med takeaway, kager og frisk kaffe.",
+  "alt": [
+   "MOR ANNA, Mejlgade"
+  ]
+ },
+ {
+  "id": "plukk",
+  "name": "Plukk – The Plant Café",
+  "q": "Plukk, Aarhus",
+  "category": "cafe",
+  "area": "Godsbanen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Café et boutique de plantes en centre-ville.",
+  "description_da": "Café og planteforretning i centrum.",
+  "alt": [
+   "Plukk Plant Cafe"
+  ]
+ },
+ {
+  "id": "cross-cafe",
+  "name": "Cross Café",
+  "q": "Cross Café, Aarhus",
+  "category": "cafe",
+  "area": "Midtbyen",
+  "greenTransport": "walk",
+  "isHiddenGem": false,
+  "description_fr": "Café-restaurant animé au bord de la rivière, du brunch aux cocktails du soir.",
+  "description_da": "Livlig café og restaurant ved åen, fra brunch til cocktails om aftenen.",
+  "alt": [
+   "Cross Cafe og Restaurant"
+  ]
+ }
+]
